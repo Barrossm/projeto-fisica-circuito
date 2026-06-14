@@ -7,3 +7,4 @@
 # Bibliotecas do Projeto:
   - Numpy
   - Matplotlib
+  - Tkinter
