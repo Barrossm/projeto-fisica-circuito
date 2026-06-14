@@ -1,4 +1,4 @@
-Integrantes do Projeto:
+# Integrantes do Projeto:
 
 - Gabriel Barros de Morais
 - João Miguel Oliveira de Carvalho
