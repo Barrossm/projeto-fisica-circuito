@@ -8,3 +8,6 @@
   - Numpy
   - Matplotlib
   - Tkinter
+
+# Github Link
+  - https://github.com/Barrossm/projeto-fisica-circuito
